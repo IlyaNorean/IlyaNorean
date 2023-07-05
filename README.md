@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-<iframe frameborder="0" style="border:none;width:100%;height:450px;" width="100%" height="450" src="https://music.yandex.ru/iframe/#playlist/IlyaNorean/1014">Слушайте <a href='https://music.yandex.ru/users/IlyaNorean/playlists/1014'>Piter</a> — <a href='https://music.yandex.ru/users/IlyaNorean'>Noreån</a> на Яндекс Музыке</iframe>
+
 <!---
 IlyaNorean/IlyaNorean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
